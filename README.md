@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Huei Ming :technologist:
-My Website: https://limhueiming.com/
+My Website: https://limhueiming.com
 <br /> <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lim-huei-ming)
 - 🔭 I’m currently working on LifeX web application (Reimplementing & Improving features of previous school project)
 - 🌱 I’m currently learning Data structures & Algorithms, Big O notation, C language and React JS
