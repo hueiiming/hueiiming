@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Huei Ming :technologist:
+## Hi there 👋 I'm Huei Ming :technologist:
 My Website: https://limhueiming.com
 <br /> <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lim-huei-ming)
 - 🔭 I’m currently working at MVI Technologies as a Software Engineer Intern
