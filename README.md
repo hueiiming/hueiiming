@@ -6,4 +6,4 @@ My Website: https://limhueiming.com
 - 🤔 I’m looking for help with Data structures & Algorithms and React
 - 💬 Ask me about Java, OOP
 - 📫 How to reach me: limhueiming2016@gmail.com
-- ⚡ Fun fact: I love playing and watching football, I enjoy playing billards/pool and prawning
+- ⚡ Fun fact: I love playing and watching football
